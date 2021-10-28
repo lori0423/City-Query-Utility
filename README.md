@@ -42,13 +42,11 @@ npm run serve
 
 ### 3.1 初始化
 
-![初始化](C:\Users\luoji\Documents\GitHub\City-Query-Utility\初始化.jpeg)
-【如果图片显示不出，请查看主目录下的 初始化.jpeg】
+![初始化](./初始化.jpeg)
 
 ### 3.2 举例实现
 
-![](C:\Users\luoji\Documents\GitHub\City-Query-Utility\举例实现.jpeg)
-【如果图片显示不出，请查看主目录下的 举例实现.jpeg】
+![](./举例实现.jpeg)
 
 ## 04 问题与解决
 
